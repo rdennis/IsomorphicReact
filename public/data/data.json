@@ -1,0 +1,27 @@
+[
+    {
+        "id": "cab5916b-10f0-482c-9cdd-167bcd131954",
+        "author": "Pete Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "id": "b5074279-9d8c-47f3-98e4-3c09eaabf2d8",
+        "author": "Jordan Walke",
+        "text": "This is *another* comment"
+    },
+    {
+        "id": "c2f76c82-a6c3-4309-a4e2-9fd7a1638ac7",
+        "author": "Robert Dennis",
+        "text": "*THIS* is the **best** comment!"
+    },
+    {
+        "id": "52f5d80c-e806-42a2-8bdf-c465e8e3037f",
+        "author": "Testing",
+        "text": "123"
+    },
+    {
+        "id": "41784981-3963-4fa6-b706-833388b40b22",
+        "author": "Author",
+        "text": "This is the location of some comment text."
+    }
+]
